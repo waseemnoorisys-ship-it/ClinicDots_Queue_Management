@@ -1,0 +1,18 @@
+[2026-11-04 17:57:01] [ERROR]: Failed to emit patient:called
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit patient:called"}
+[2026-11-04 17:57:01] [ERROR]: Failed to emit queue:updated
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit queue:updated"}
+[2026-11-04 17:57:01] [ERROR]: Failed to emit patient:called
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit patient:called"}
+[2026-11-04 18:59:40] [ERROR]: Failed to emit patient:called
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit patient:called"}
+[2026-11-04 18:59:40] [ERROR]: Failed to emit queue:updated
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit queue:updated"}
+[2026-11-04 18:59:40] [ERROR]: Failed to emit patient:called
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit patient:called"}
+[2026-11-04 19:59:43] [ERROR]: Failed to emit patient:called
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit patient:called"}
+[2026-11-04 19:59:43] [ERROR]: Failed to emit queue:updated
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit queue:updated"}
+[2026-11-04 19:59:43] [ERROR]: Failed to emit patient:called
+{"error":"Socket.IO has not been initialized!","level":"error","message":"Failed to emit patient:called"}
